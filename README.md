@@ -93,7 +93,7 @@ This project is open-source and available under the **MIT License**.
 **Kunal Raj**  
 Embedded Systems Developer | IoT Enthusiast  
 GitHub: [https://github.com/KunalRaj007](https://github.com/KunalRaj007)  
-Email: Kunalraj1699.com
+Email: Kunalraj1699@gmail.com
 
 ---
 
